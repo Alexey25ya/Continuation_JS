@@ -82,7 +82,7 @@
     });
 
     form.addEventListener('input', (event) => {
-        if (event.target.value) {
+        if (!event.target.value) {
             event.target.classList.add('error')
         } event.target.classList.remove('error');
     });
