@@ -27,6 +27,7 @@ data.forEach(({ id, animal, name, age, url }) => {
     cardBody.style.display = 'flex';
     cardBody.style.flexDirection = 'column';
     cardBody.style.alignItems = "center";
+    cardBody.style.backgroundColor = 'pink'
     div.appendChild(cardBody);
 
     const idAnimal = document.createElement("p");
