@@ -1,5 +1,14 @@
 import { dataInfo } from "./zoo.js";
 
+const header = document.querySelector("h1")
+header.textContent = 'ZOO';
+header.style.fontSize = '40px';
+header.style.color = 'pink';
+header.style.display = 'flex';
+header.style.flexDirection = 'column';
+header.style.alignItems = "center";
+header.style.marginTop = '30px'
+
 const data = JSON.parse(dataInfo);
 console.log(data);
 const content = document.querySelector(".content");
