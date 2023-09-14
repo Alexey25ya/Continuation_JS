@@ -34,13 +34,6 @@ async function fetchData() {
             productBox.insertAdjacentHTML("beforeend", productEl);
         });
 
-        // const btns = document.querySelectorAll(".btn__del");
-        // btns.forEach((el) => {
-        //     el.addEventListener("click", () => {
-        //         const product = el.closest(".product");
-        //         product.remove();
-        //     });
-        // });
     } catch (error) {
         console.error(error);
     }
