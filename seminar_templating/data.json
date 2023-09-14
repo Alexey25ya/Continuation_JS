@@ -1,0 +1,34 @@
+[
+    {
+        "name": "MANGO PEOPLE T-SHIRT",
+        "image": "img/product1.jpg",
+        "price": "300",
+        "color": "Red",
+        "size": "XL",
+        "quantity": "2"
+    },
+    {
+        "name": "ELLERY X M'O CAPSULE",
+        "image": "img/product2.jpg",
+        "price": "200",
+        "color": "Blue",
+        "size": "L",
+        "quantity": "3"
+    },
+    {
+        "name": "MANGO PEOPLE T-SHIRT",
+        "image": "img/product1.jpg",
+        "price": "300",
+        "color": "Red",
+        "size": "XL",
+        "quantity": "2"
+    },
+    {
+        "name": "ELLERY X M'O CAPSULE",
+        "image": "img/product2.jpg",
+        "price": "200",
+        "color": "Blue",
+        "size": "L",
+        "quantity": "3"
+    }
+]
